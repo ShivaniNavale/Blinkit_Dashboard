@@ -86,6 +86,6 @@ To provide a consolidated visual tool that:
 ---
 
 ## 🖼️ Screenshots / Demos
- Screenshots and preview images:
+Preview image:
 ```markdown
 [![Dashboard Preview](./preview.png)]
