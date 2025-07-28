@@ -86,7 +86,6 @@ To provide a consolidated visual tool that:
 ---
 
 ## 🖼️ Screenshots / Demos
-
-Add screenshots or preview images here and link them to your PDF if desired:
+ Screenshots and preview images:
 ```markdown
-[![Dashboard Preview](./preview.png)](./BlinkitDashboard.pdf)
+[![Dashboard Preview](./preview.png)]
